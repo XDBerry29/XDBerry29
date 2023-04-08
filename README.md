@@ -18,9 +18,9 @@ Dedicated computer science student with a passion for studying interesting algor
 
 📞 Contact
 
-+40774066384
-Cluj-Napoca
-berindean.razvan9@gmail.com
++40774066384\n
+Cluj-Napoca\n
+berindean.razvan9@gmail.com\n
 github.com/XDBerry29
 
 🌍 Spoken Languages
